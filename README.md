@@ -1,1 +1,1 @@
-/keywords-normalized/index.html
+\Keywords.normilized/index.html
